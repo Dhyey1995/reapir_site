@@ -1,0 +1,13 @@
+<link rel="stylesheet" href="<?php echo base_url('assets') ?>/css/style.css">
+<link rel="stylesheet" href="<?php echo base_url('assets') ?>/css/responsive.css">
+<link rel="stylesheet" href="<?php echo base_url('assets') ?>/css/bootstrap.min.css">
+<link rel="stylesheet" href="<?php echo base_url('assets') ?>/css/animate.css">
+<link rel="stylesheet" href="<?php echo base_url('assets') ?>/css/font-awesome.min.css">
+<link rel="stylesheet" href="<?php echo base_url('assets') ?>/css/hover.css">
+<link rel="stylesheet" href="<?php echo base_url('assets') ?>/css/owl.carousel.css">
+<link rel="stylesheet" href="<?php echo base_url('assets') ?>/css/owl.theme.default.min.css">
+<link rel="stylesheet" href="<?php echo base_url('assets') ?>/css/revolution-slider/settings.css">
+<link rel="stylesheet" href="<?php echo base_url('assets') ?>/css/revolution-slider/layers.css">
+<link rel="stylesheet" href="<?php echo base_url('assets') ?>/css/revolution-slider/navigation.css">
+<link rel="stylesheet" href="<?php echo base_url('assets') ?>/css/strocke-gap-icons-style.css">
+<link rel="stylesheet" href="<?php echo base_url('assets') ?>/css/jquery.fancybox.css">
